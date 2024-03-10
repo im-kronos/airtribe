@@ -1,0 +1,147 @@
+{
+  "id": "140892",
+  "name": "Angular Jira Clone",
+  "url": "https://github.com/trungk18/jira-clone-angular",
+  "description": "A Jira clone app built with Angular 10, Akita and ng-zorro - by trungk18",
+  "category": "Software",
+  "createdAt": "2020-06-12T16:00:00.000Z",
+  "updatedAt": "2020-06-13T16:00:00.000Z",
+
+  "issues": [
+    {
+   
+      "description": "None",
+      "id": "6527",
+      "status": "Done",
+      "title": "card 1",
+      "type": "Story",
+      "listPosition": 1
+    },
+    {
+       "title": "card 2",
+      "type": "Story",
+      "description": "None", 
+      "status": "InProgress",
+      "id": "73",
+      "listPosition": 2
+    },
+    {
+      "title": "card 3",
+      "type": "Story",
+      "description": "None", 
+      "id": "2021",
+      "status": "Backlog",
+      "listPosition": 1
+    },
+    {
+      "title": "card 4",
+      "type": "Story",
+      "description": "None", 
+
+      "id": "2020",
+      "status": "Done",
+      "listPosition": 1
+    },
+    {
+      "title": "card 5",
+      "type": "Bug",
+      "description": "None", 
+      "id": "3957",
+      "status": "InProgress",
+      "listPosition": 1
+    },
+    {
+      "title": "card 6",
+      "type": "Bug",
+      "description": "None", 
+      "id": "9013",
+      "status": "Done",
+      "listPosition": 1
+     
+    },
+    {
+      "title": "card 7",
+      "type": "Bug",
+      "description": "None", 
+      "id": "9210",
+      "status": "Done",
+      "listPosition": 2
+    },
+    {
+      "title": "card 8",
+      "type": "Bug",
+      "description": "None", 
+      "id": "9361",
+      "status": "InProgress",
+      "listPosition": 3
+     
+    },
+    {
+      "title": "card 9",
+      "type": "Story",
+      "description": "None", 
+      "id": "9451",
+      "status": "InProgress",
+      "listPosition": 1
+     
+    },
+    { 
+      "title": "card 10",
+      "type": "Bug",
+      "description": "None", 
+      "id": "9631",
+      "status": "Selected",
+      "listPosition": 2
+    },
+    {
+      "title": "card 11",
+      "type": "Task",
+      "description": "None", 
+      "id": "9546",
+      "status": "Done",
+      "listPosition": 1
+    },
+    {
+      "title": "card 12",
+      "type": "Story",
+      "description": "None", 
+      "id": "9548",
+      "status": "Done",
+      "listPosition": 1
+    },
+    {
+      "title": "card 13",
+      "type": "Task",
+      "description": "None", 
+      "id": "9584",
+      "status": "Backlog",
+      "listPosition": 2
+    },
+    {
+      "title": "card 14",
+      "type": "Task",
+      "description": "None", 
+      "id": "9554",
+      "status": "Backlog",
+      "listPosition": 3
+    },
+    {
+      "title": "card 15",
+      "type": "Task",
+      "description": "None", 
+      "id": "9665",
+      "status": "Done",
+      "listPosition": 1
+
+    },
+    {
+      "title": "card 16",
+      "type": "Task",
+      "description": "None", 
+      "id": "9667",
+      "status": "Selected",
+      "listPosition": 1
+      
+    }
+  ]
+}
